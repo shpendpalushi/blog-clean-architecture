@@ -1,0 +1,40 @@
+﻿<link href="~/assets/css/core/core.css" rel="stylesheet" />
+<div class="modal fade" id="addPostModal" tabindex="-1" role="dialog" aria-labelledby="addPostModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content modal-inner-style">
+            <div class="modal-header">
+                <h5 class="modal-title modal-inner-text" id="exampleModalLabel">Krijo post të ri</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form class="form" id="frmRegister" autocomplete="off">
+                    <div class="input-group" input-group="txtTitlePost">
+                        <input type="text" error-message="Ju lutemi plotësoni fushën!" id="txtTitlePost" class="form-control required validation-nospace" placeholder="Titulli i postit...">
+                    </div>
+                    <div class="input-group" input-group="txtDescriptionPost">
+                        <textarea type="text" error-message="Ju lutemi plotësoni fushën!" id="txtDescriptionPost" class="form-control required validation-nospace" placeholder="Përshkrimi..."></textarea>
+                    </div>
+                    <div class="row constructed-div input-group">
+                        <div class="col">
+                            <label class="modal-inner-text inner-div-content-text">Shto për postin tënd</label>
+                        </div>
+                        <div class="col text-right">
+                            <a href="javascript:void(0)" id="aUploadImage" data-toggle="tooltip" data-original-title="Ngarko imazh" class="mr-2"><img src="https://img.icons8.com/color/50/000000/image.png" /></a>
+                            <a href="#" class="" data-toggle="tooltip" data-original-title="Shto emoji"><img src="https://img.icons8.com/color/48/000000/crazy--v3.png" /></a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+            <div style="display: none">
+                <input type="file" name="name" id="fuFilePost" value="" />
+            </div>
+        </div>
+    </div>
+</div>
+<script src="~/assets/js/extra/post.js"></script>

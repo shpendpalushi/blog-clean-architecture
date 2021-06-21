@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Blog.CleanArchitecture\Blog.CleanArchitecture.Data\bin\Debug\net5.0\Blog.CleanArchitecture.Data.deps.json
+C:\Users\User\source\repos\Blog.CleanArchitecture\Blog.CleanArchitecture.Data\bin\Debug\net5.0\Blog.CleanArchitecture.Data.dll
+C:\Users\User\source\repos\Blog.CleanArchitecture\Blog.CleanArchitecture.Data\bin\Debug\net5.0\ref\Blog.CleanArchitecture.Data.dll
+C:\Users\User\source\repos\Blog.CleanArchitecture\Blog.CleanArchitecture.Data\bin\Debug\net5.0\Blog.CleanArchitecture.Data.pdb
+C:\Users\User\source\repos\Blog.CleanArchitecture\Blog.CleanArchitecture.Data\obj\Debug\net5.0\Blog.CleanArchitecture.Data.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Blog.CleanArchitecture\Blog.CleanArchitecture.Data\obj\Debug\net5.0\Blog.CleanArchitecture.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Blog.CleanArchitecture\Blog.CleanArchitecture.Data\obj\Debug\net5.0\Blog.CleanArchitecture.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Blog.CleanArchitecture\Blog.CleanArchitecture.Data\obj\Debug\net5.0\Blog.CleanArchitecture.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\Blog.CleanArchitecture\Blog.CleanArchitecture.Data\obj\Debug\net5.0\Blog.CleanArchitecture.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Blog.CleanArchitecture\Blog.CleanArchitecture.Data\obj\Debug\net5.0\Blog.CleanArchitecture.Data.dll
+C:\Users\User\source\repos\Blog.CleanArchitecture\Blog.CleanArchitecture.Data\obj\Debug\net5.0\ref\Blog.CleanArchitecture.Data.dll
+C:\Users\User\source\repos\Blog.CleanArchitecture\Blog.CleanArchitecture.Data\obj\Debug\net5.0\Blog.CleanArchitecture.Data.pdb
